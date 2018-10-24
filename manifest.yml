@@ -1,0 +1,7 @@
+--- 
+applications: 
+  - env: 
+      MICROS_PRODUCTS_URL: product-service-java.eu-gb.mybluemix.net/products
+    instances: 1
+    memory: 256M
+    name: shipping-service-js-javjul
